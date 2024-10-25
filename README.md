@@ -1,2 +1,2 @@
-# Work in Progress Vidoe Player 
+# Work in Progress Video Player 
 
